@@ -113,7 +113,7 @@ terraform/
       variables.tf
       terraform.tfvars
   modules/
-    /VM
+    /k8s
       main.tf
       outputs.tf
       providers.tf
